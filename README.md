@@ -70,10 +70,10 @@ Acesse o link
 
 ## 🤔 Como contribui
 
-- Fork this repo;
+- De um Fork nesse repoitorio;
 - Crie uma nova branch para sua nova feature: `git checkout -b my-feature`;
 - Commita Suas alterações: `git commit -m 'feat: My brand new feature'`;
-- Push seu commit para sua branch: `git push origin my-feature`.
+- De um push do seu commit para sua branch: `git push origin my-feature`.
 
 Após o merge do seu pedido de pull request, você pode deletar sua branch.
 

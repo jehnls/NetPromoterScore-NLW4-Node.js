@@ -71,11 +71,11 @@ Acesse o link
 ## 🤔 Como contribui
 
 - Fork this repo;
-- Create a branch for your new feature: `git checkout -b my-feature`;
-- Commit your changes: `git commit -m 'feat: My brand new feature'`;
-- Push it to your branch: `git push origin my-feature`.
+- Crie uma nova branch para sua nova feature: `git checkout -b my-feature`;
+- Commita Suas alterações: `git commit -m 'feat: My brand new feature'`;
+- Push seu commit para sua branch: `git push origin my-feature`.
 
-After merge of your pull request, you can delete your branch.
+Após o merge do seu pedido de pull request, você pode deletar sua branch.
 
 ## :memo: License
 

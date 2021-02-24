@@ -25,10 +25,10 @@
 ## :octocat: Trilha
 
 - Day 1: Rumo ao próximo nível :
-- Day 2: Linter, Rotas e State - :heavy_check_mark:
-- Day 3: Inputs e página de Quiz - :heavy_check_mark:
-- Day 4: Quiz, Pontuação e Integrações com Next.js - :heavy_check_mark:
-- Day 5: Páginas dinâmicas, animações e Lottie - :heavy_check_mark:
+- Day 2: Banco de Dados - :heavy_check_mark:
+- Day 3: Testando a nossa aplicação - :heavy_check_mark:
+- Day 4: Envio de e-mail - :heavy_check_mark:
+- Day 5: Finalizando nossa api com validações - :heavy_check_mark:
 
 ## :rocket: Tecnologias
 

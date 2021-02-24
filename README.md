@@ -24,7 +24,7 @@
 
 ## :octocat: Trilha
 
-- Day 1: Rumo ao próximo nível :
+- Day 1: Rumo ao próximo nível - :heavy_check_mark:
 - Day 2: Banco de Dados - :heavy_check_mark:
 - Day 3: Testando a nossa aplicação - :heavy_check_mark:
 - Day 4: Envio de e-mail - :heavy_check_mark:

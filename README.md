@@ -35,6 +35,8 @@
 This project was developed with the following techs:
 
 - [Node](https://reactjs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [TypeORM](https://typeorm.io/#/)
 
 
 

@@ -7,4 +7,6 @@ const userController = new UserController();
 
 router.post("/users", userController.create);
 
+router.get("/", (request, response)=> response.json({"Welcome":"Hello world!!"}));
+
 export { router };

@@ -38,6 +38,9 @@ This project was developed with the following techs:
 - [Express](https://expressjs.com/pt-br/)
 - [TypeORM](https://typeorm.io/#/)
 - [JEST](https://jestjs.io/en/)
+- [NODEMAIL](https://nodemailer.com/about/)
+- [Ethereal](https://ethereal.email/)
+- [Handlebars](https://handlebarsjs.com/)
 
 
 

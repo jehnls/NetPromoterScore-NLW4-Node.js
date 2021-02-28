@@ -41,7 +41,7 @@ This project was developed with the following techs:
 - [NODEMAIL](https://nodemailer.com/about/)
 - [Ethereal](https://ethereal.email/)
 - [Handlebars](https://handlebarsjs.com/)
-
+- [YUP-validation](https://github.com/jquense/yup)
 
 
 
